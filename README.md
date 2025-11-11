@@ -1,5 +1,5 @@
 
-# Adidas Sales Analysis Dashboard
+# Addidas Sales Analysis Dashboard
 
 ### 👨‍💻 Created by [Aswin Kumar](www.linkedin.com/in/aswin-kumar-83a0b4372)
 **AI-Driven Data Analyst | Google Certified | Skilled in Excel, SQL, Power BI & Prompt Engineering**
