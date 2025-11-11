@@ -1,6 +1,10 @@
-# Power-Bi-Dashboard
-Addidas Sales Analysis
+
 # Adidas Sales Analysis Dashboard
+
+### 👨‍💻 Created by [Aswin Kumar](www.linkedin.com/in/aswin-kumar-83a0b4372)
+**AI-Driven Data Analyst | Google Certified | Skilled in Excel, SQL, Power BI & Prompt Engineering**
+
+---
 
 ## Project Overview
 This Power BI dashboard provides a comprehensive analysis of Adidas sales performance across regions, products, and retailers. It uncovers key insights that help business leaders understand revenue trends, profitability, and customer buying patterns.
@@ -31,16 +35,11 @@ The dashboard enables decision-makers to:
 - Map-based view for state-wise sales
 - KPI cards highlighting business performance metrics
 
-## How to View This Project
-1. Download the `.pbix` file from this repository
-2. Open it in **Power BI Desktop**
-3. Explore interactive filters and visuals
+## Dashboard Preview
 
-**Files**
-- `aswin.pbix`
-- `images/powerbi_dashboard.png`
+<img width="925" height="524" alt="power bi (screen shot)" src="https://github.com/user-attachments/assets/6c82a68f-cc10-470e-bd7d-677560a80c17" />
 
-## About the Creator
-**Aswin Kumar** — AI-Driven Data Analyst | Google Certified  
-Skilled in Excel, SQL, Power BI, and Prompt Engineering  
-📍 Tirupur, India
+
+
+
+
